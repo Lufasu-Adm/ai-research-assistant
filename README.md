@@ -52,8 +52,14 @@ Proyek ini dibuat untuk mengotomatisasi proses *tech monitoring* tanpa campur ta
     * Otomatis: `python scheduler.py`
 
 ---
+## 🖼️ Screenshot 
+
+| Home Screen |
+|:---:|
+| <img src="https://github.com/Lufasu-Adm/AI-Stickers-Companion/blob/main/assets/home.png" width="200" alt="Home"> | 
+
+---
 
 ## 👤 Author
 
-**Ruphas**
-*Mahasiswa Informatika - Telkom University Surabaya*
+**Jordan Wijayanto**
