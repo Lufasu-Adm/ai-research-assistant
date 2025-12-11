@@ -1,0 +1,9 @@
+# Abaikan file rahasia
+.env
+
+# Abaikan folder virtual environment
+venv/
+__pycache__/
+
+# Abaikan file sampah sistem
+.DS_Store
