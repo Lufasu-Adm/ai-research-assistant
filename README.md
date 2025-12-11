@@ -56,7 +56,7 @@ Proyek ini dibuat untuk mengotomatisasi proses *tech monitoring* tanpa campur ta
 
 | Home Screen |
 |:---:|
-| <img src="https://github.com/Lufasu-Adm/AI-Stickers-Companion/blob/main/assets/home.png" width="200" alt="Home"> | 
+| <img src="https://github.com/Lufasu-Adm/ai-research-assistant/blob/main/assets/WhatsApp%20Image%202025-12-11%20at%2011.51.12_784c2af3.jpg" width="200" alt="Home"> | 
 
 ---
 
